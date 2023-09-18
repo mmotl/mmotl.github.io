@@ -1,9 +1,11 @@
 # Project information
-site_name: Matthias Test No.2
+site_name: Data Analytics Draft
 
 # Repository
 repo_name: Github Repo
 repo_url: https://github.com/mmotl/mmotl.github.io
 
 # Theme
-theme: material
+theme:
+  name: material
+  logo: images/logo_cube.png
