@@ -1,3 +1,9 @@
-site_name: Matthias Test Site :)
+# Project information
+site_name: Matthias Test Site
 
+# Repository
+repo_name: Github Repo
+repo_url: https://github.com/mmotl/mmotl.github.io
+
+# Theme
 theme: material
