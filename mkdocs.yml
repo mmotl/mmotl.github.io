@@ -9,3 +9,15 @@ repo_url: https://github.com/mmotl/mmotl.github.io
 theme:
   name: material
   logo: images/logo_cube.png
+  font:
+    text: Inter
+    code: Roboto Mono
+  palette:
+    - scheme: light
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: dark
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
